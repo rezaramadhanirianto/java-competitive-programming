@@ -1,1 +1,1 @@
-## My Java Competitive Programming Template
+## My Java Competitive Programming Template and Resource
