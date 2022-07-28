@@ -9,8 +9,6 @@ public class Main{
             int testCases=in.nextInt();
             while(testCases-- > 0){
                 // Example:
-                // int a = in.nextInt();
-                // out.print(a);
                 // TODO: Add Code Here
             }
             out.close();
