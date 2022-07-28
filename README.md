@@ -1,2 +1,1 @@
-# java-competitive-template
-My competitive programming template for java
+# My Java Competitive Programming Template
