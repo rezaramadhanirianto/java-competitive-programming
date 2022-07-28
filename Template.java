@@ -8,7 +8,6 @@ public class Main{
             FastWriter out = new FastWriter();
             int testCases=in.nextInt();
             while(testCases-- > 0){
-                // Example:
                 // TODO: Add Code Here
             }
             out.close();
